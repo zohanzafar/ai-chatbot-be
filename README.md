@@ -47,7 +47,7 @@ This is a Django REST API backend for a user-authenticated chatbot. Users can re
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/zohanzafar/ai-chatbot-be.git
 cd chatbot
 ```
 
