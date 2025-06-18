@@ -48,7 +48,7 @@ This is a Django REST API backend for a user-authenticated chatbot. Users can re
 
 ```bash
 git clone https://github.com/zohanzafar/ai-chatbot-be.git
-cd chatbot
+cd ai-chatbot-be
 ```
 
 ### 2. Create a Virtual Environment
@@ -211,28 +211,3 @@ http://<your-domain>/api/v1/
   - Unauthorized access
   - Invalid session IDs
 
-
-
-
-Hi, I can integrate a LangChain-based AI agent into your Django app fast and clean.
-
-✅ Set up a basic agent with tool use (e.g. search/calculator)
-✅ Connect via API endpoint
-✅ Make it respond to prompts using OpenAI or similar
-✅ Bonus: I’ve worked with vector stores, Pinecone, FAISS, and full RAG pipelines
-
-Why me?
-I’ve already built similar systems:
-• RAG chatbot using LangChain + Pinecone + Flask APIs
-• AI agent pipeline with LangGraph and GPT
-• Django REST + OpenAI integrations with real-world usage
-
-I write solid backend code, make AI features work, and keep things simple.
-
-📂 [GitHub Portfolio] https://github.com/zohanzafar
-📅 Available to start right away, let’s get it done.
-
-Looking forward to hearing more about your current setup and what tools the agent should use.
-
-Thanks,
-Zohan Zafar
